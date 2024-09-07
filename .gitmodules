@@ -1,0 +1,3 @@
+[submodule "frankenstain-contract"]
+	path = frankenstain-contract
+	url = git@github.com:RanVargas/frankenstain-contract.git
