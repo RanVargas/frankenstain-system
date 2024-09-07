@@ -4,3 +4,6 @@
 [submodule "frankenstain-body"]
 	path = frankenstain-body
 	url = git@github.com:RanVargas/frankenstain-body.git
+[submodule "frankenstain-client"]
+	path = frankenstain-client
+	url = git@github.com:RanVargas/frankenstain-client.git
