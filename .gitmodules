@@ -1,3 +1,6 @@
 [submodule "frankenstain-contract"]
 	path = frankenstain-contract
 	url = git@github.com:RanVargas/frankenstain-contract.git
+[submodule "frankenstain-body"]
+	path = frankenstain-body
+	url = git@github.com:RanVargas/frankenstain-body.git
